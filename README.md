@@ -1,12 +1,13 @@
-<h2 align="center">Hi 👋! My name is Georgii and I'm a passionate developer, from Ukraine.</h2>
+<h2 align="center">Hi 👋! My name is Georgii and I'm a Fullstack Developer, from Ukraine.</h2>
 
 ###
 
-<img align="right" height="210" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
+<img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
 ###
 
 <div align="center">
+  <h3>My stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -49,16 +50,16 @@
 ###
 
 <div align="center">
+  <h3>How to reach me</h3>
  <a href="https://t.me/georgiibudik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/georgii-budik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="mailto:georgijbudik@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
-
-###
-
-<h3 align="center">Gmail: georgijbudik@gmail.com</h3>
 
 ###
